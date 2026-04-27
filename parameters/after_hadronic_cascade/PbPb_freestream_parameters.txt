@@ -1,1 +1,0 @@
-srun EMTensor_IO_music.py 0000_tempoFS.dat 0000_FS_v1p0.dat 0000_FS_v1p0_EMtensor.dat --time $T --velocity 1.0 --grid-max 14 --renorm 1.0
